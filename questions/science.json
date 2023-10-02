@@ -18,7 +18,7 @@
     {
       "number": 4,
       "question": "The leafs have tiny pores called",
-      "answers": [ "Leaf blade", "Veins", "Stomata" ], "correct_answer": 1
+      "answers": [ "Leaf blade", "Veins", "Stomata" ], "correct_answer": 3
     },
     {
       "number": 5,
@@ -43,57 +43,57 @@
     {
       "number": 9,
       "question": "Which of the following is a paracitic plant",
-      "answers": [ "Dodar", "Cactus", "Croton" ], "correct_answer": 1
+      "answers": [ "Dodder", "Cactus", "Croton" ], "correct_answer": 1
     },
     {
       "number": 10,
       "question": "Leaf Blades helps the leaf to trap the __________",
-       "correct_answer": "sun light"
+       "answers": [ "Stomata", "sun light", "Leaf Blade" ], "correct_answer": 2
     },
     {
       "number": 11 ,
       "question": "Leaf makes food in the form of ___________",
-       "correct_answer": "glucose"
+       "answers": [ "glucose", "starch", "sugar" ], "correct_answer": 1
     },
     {
       "number": 12,
       "question": "_________ can not make its own food",
-       "correct_answer": "dodder"
+        "answers": [ "dodder", "cactus", "corton" ], "correct_answer": 1
     },
     {
       "number": 13,
       "question": "Leaf is attached with the help of the __________",
-       "correct_answer": "stalk"
+       "answers": [ "side vein", "leaf blade", "stalk" ], "correct_answer": 3
     },
     {
       "number": 14,
       "question": "The flattened part of leaf is called ___________",
-       "correct_answer": "leaf blade"
+       "answers": [ "side vein", "leaf blade", "stalk" ], "correct_answer": 2
     },
     {
       "number": 15,
       "question": "Name the vein that runs throughtout the middle of the leaf _____________",
-       "correct_answer": "main vein"
+       "answers": [ "side vein", "main vein", "stalk" ], "correct_answer": 2
     },
     {
       "number": 16,
       "question": "Name of the process by which green plan make their food ____________",
-       "correct_answer": "photosynthesis"
+       "answers": [ "Photosynthesis", "Bleaching", "Freazing" ], "correct_answer": 1
     },
     {
       "number": 17,
       "question": "Which solution is used to test the presence of starch in the leaf ___________",
-       "correct_answer": "iodine solution"
+       "answers": [ "sugar solution", "iodine solution", "alcohol" ], "correct_answer": 2
     },
     {
       "number": 18,
       "question": "How do moulds and mushrooms get their food ________________",
-       "correct_answer": "dead plants nad animals"
+       "answers": [ "dead plants and animals", "water", "carbon-di-oxide" ], "correct_answer": 1
     },
     {
       "number": 19,
       "question": "Which part of the leaf helps in breathing ____________",
-       "correct_answer": "stomata"
+       "answers": [ "Stomata", "sun light", "Leaf Blade" ], "correct_answer": 1
     }
 
   ]
