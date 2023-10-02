@@ -4,25 +4,6 @@ var totalQue	= 0;
 var totalCorrect	= 0;
 var jsonfilePath = "";
 
-function loadJS(FILE_URL, async = true) {
-  let scriptEle = document.createElement("script");
-
-  scriptEle.setAttribute("src", FILE_URL);
-  scriptEle.setAttribute("type", "text/javascript");
-  scriptEle.setAttribute("async", async);
-
-  document.body.appendChild(scriptEle);
-
-  // success event
-  scriptEle.addEventListener("load", () => {
-    console.log("File loaded")
-  });
-   // error event
-  scriptEle.addEventListener("error", (ev) => {
-    console.log("Error on loading file", ev);
-  });
-}
-
 function setNextQuestion(e) {
 	e.preventDefault();
 	currQue = (currQue == totalQue) ? 1 : (currQue+1);
@@ -119,11 +100,10 @@ function makeChoice(event){
 
 function setQuestion(q, n) {
 	questionElement = document.getElementById("question");
-	questionElement.innerText = q;
+	questionElement.innerHTML = q;
 
 	questionElement = document.getElementById("qid");
-	questionElement.innerText = n;
-	questionElement.innerText = questionElement.innerText + "."
+	questionElement.innerText = n + "." ;
 }
 
 function markOption(num){
@@ -165,7 +145,7 @@ function showOption(num) {
 
 function setOption(option, num ) {
 	var ansID = "o"+num+"val";
-	document.getElementById(ansID).innerText = option;
+	document.getElementById(ansID).innerHTML = option;
 	showOption(num);
 }
 
