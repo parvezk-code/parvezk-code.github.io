@@ -2,6 +2,7 @@ var qList 		= "";
 var currQue 	= 0;
 var totalQue	= 0;
 var totalCorrect	= 0;
+var jsonfilePath = "";
 
 function loadJS(FILE_URL, async = true) {
   let scriptEle = document.createElement("script");
@@ -34,8 +35,7 @@ function setPrevQuestion(e) {
 	processQuestion(qList.questions[currQue-1], currQue);
 }
 
-
-function readQuestion(event) {
+function openDialog(event) {
 
 	//var data = require('questions_js/science.json');
 	//console.log("apple");
@@ -45,27 +45,36 @@ function readQuestion(event) {
   input.onchange = _ => {
     // you can use this method to get file and perform respective operations
             // let files =   Array.from(input.files);
-			let file = input.files[0];
+			jsonfilePath = input.files[0];
+			//console.log(jsonfilePath)
+			readQuestion();
+        };
+  input.click();
+
+}
+
+function readQuestion() {
 			let reader = new FileReader();
-			reader.readAsText(file);
+
+			reader.readAsText(jsonfilePath);
+			console.log(jsonfilePath);
+			// reader.readAsDataURL("/home/newuser/zz_data/repos/Library/sanaya/mcq_quiz/mcq_quiz_02/questions/science.json");
 
 			reader.onload = function() {
+				//console.log(reader.result);
 				qList = JSON.parse(reader.result);
 				// console.log(reader.result);
-				processQueList(qList);
+				processQueList();
 				//loadJS("questions_js/index.js", false);
 			};
 
 			reader.onerror = function() {
 				console.log(reader.error);
 			};
-            //console.log(files);
-        };
-  input.click();
-
+            //console.log("readQuestion");
 }
 
-function processQueList(qList) {
+function processQueList() {
 	var q1 = qList.questions[0];
 	totalQue = qList.questions.length;
 
@@ -212,5 +221,25 @@ function displayCorrectChoice(que, index, array){
 	parentDiv.appendChild(hr);
 
 }
+
+async function getJSONFromUrl(path) {
+  const response = await fetch(path);
+  const data = await response.json();
+  return data;
+}
+
+async function init(){
+	const queryString = window.location.search;
+	const urlParams = new URLSearchParams(queryString);
+	var paper = urlParams.get('paperChoice')
+	if( (paper!= null) && (window.location.protocol!="file:") ){
+		filePath = window.location.pathname.split("index.html")[0]+"questions/"+urlParams.get('paperChoice')+".json";
+		console.log(filePath);
+		qList = await getJSONFromUrl(filePath);
+		processQueList();
+	}
+}
+
+init();
 
 //loadJS("questions_js/index.js", false);

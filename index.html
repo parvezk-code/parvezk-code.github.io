@@ -42,7 +42,7 @@
 	<div class="row">
 		<div class="col-sm-12">
         	<div id="quiz-structure" class="quiz-body">
-        	<button onclick="readQuestion(event)" name="Choose" id="ChooseBtn" class="btn btn-success">Select Question Paper</button>
+        	<button onclick="openDialog(event)" name="Choose" id="ChooseBtn" class="btn btn-success">Select Question Paper</button>
             <button onclick="showResult(event)" name="Result" id="ResultBtn" class="btn btn-success">Finish</button>
             <hr>
             <div id="quizForm" style="display:none;" > <form  name="quizForm" onsubmit="">
@@ -99,6 +99,9 @@
          </div>
 
         </div> <!-- End of col-sm-12 -->
+              <div id="choose papers" class="quiz-body result">
+               <a href="?paperChoice=science">Visit W3Schools</a>
+         </div>
 
     </div> <!-- End of row -->
 </div> <!-- ENd of container fluid -->
