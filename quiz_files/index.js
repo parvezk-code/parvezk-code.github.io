@@ -165,7 +165,7 @@ function displayCorrectChoice(que, index, array){
 
 	const queDiv = document.createElement("div");
 	queDiv.setAttribute("class", "result-question");
-	queDiv.innerText = "Q " + (index+1) +". "+ que.question;
+	queDiv.innerHTML = "Q " + (index+1) +". "+ que.question;
 	parentDiv.appendChild(queDiv);
 
 
