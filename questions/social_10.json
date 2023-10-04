@@ -1,0 +1,93 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What do tanker ship carry",
+      "answers": [ "coal", "oil and petrolium", "rice", "marble" ], "correct_answer": 2
+    },
+    {
+      "number": 2,
+      "question": "Which of these is used to rescue people in natural disaster",
+      "answers": [ "aeroplane", "train", "bus", "helicopter" ], "correct_answer": 4
+    },
+    {
+      "number": 3,
+      "question": "What is the postal service called",
+      "answers": [ "Indian dost", "Indian most", "Indian post", "Indian coast" ], "correct_answer": 3
+    },
+    {
+      "number": 4,
+      "question": "Which of these are not means of communication",
+      "answers": [ "Train", "Radio", "Television", "News paper" ], "correct_answer": 1
+    },
+    {
+      "number": 5,
+      "question": "Rajdhani Express and Shatabdi Express are luxury buses",
+      "answers": [ "True", "False" ], "correct_answer": 2
+    },
+    {
+      "number": 6,
+      "question": "The Deendayal port is aminor port in india",
+      "answers": [ "True", "False" ], "correct_answer": 2
+    },
+    {
+      "number": 7,
+      "question": "Letters send through speed post reach in seconds",
+      "answers": [ "True", "False" ], "correct_answer": 2
+    },
+    {
+      "number": 8,
+      "question": "Mobile phone are more popular than landline phone",
+      "answers": [ "True", "False" ], "correct_answer": 1
+    },
+    {
+      "number": 9,
+      "question": "Television is a means of communication",
+      "answers": [ "True", "False" ], "correct_answer": 1
+    },
+    {
+      "number": 10,
+      "question": "What is communication",
+      "answers": [ "Process of sending and receiving",
+                   "Process of sending and receiving message from people",
+                   "Process of sending and receiving goods" ], "correct_answer": 2
+    },
+    {
+      "number": 11,
+      "question": "What is cargo ships",
+      "answers": [ "Carry goods and cargo", "Carry mesages and cargo", "Carry food and cargo" ], "correct_answer": 1
+    },
+    {
+      "number": 12,
+      "question": "Railway, life line of india",
+      "answers": [ "Connect parts of india", "People depend on it", "Both" ], "correct_answer": 3
+    },
+    {
+      "number": 13,
+      "question": "What is transport",
+      "answers": [ "Refers to sending and receiving message", "Refers to carry goods and cargo",
+                   "Refers to vehicle that carry people and goods" ], "correct_answer": 3
+    },
+    {
+      "number": 14,
+      "question": "How is helicopter useful",
+      "answers": [ "Rescue people", "Drop medicines and food in ",  "Can reach difficult areas", "All three" ], "correct_answer": 4
+    },
+    {
+      "number": 15,
+      "question": "Why do we need to travel",
+      "answers": [ "To reach important places like shops", "To eat food", "To play" ], "correct_answer": 1
+    },
+    {
+      "number": 16,
+      "question": "Why is internet boon",
+      "answers": [ "Help us travel", "Helps us get important information", "Help us to rescue people" ], "correct_answer": 2
+    },
+    {
+      "number": 17,
+      "question": "Why madhya-pradesh, Chattis-garh dont have port.",
+      "answers": [ "Do not have road", "Do not have air-port","Do not connect sea or ocean" ], "correct_answer": 3
+    }
+  ]
+}
+
