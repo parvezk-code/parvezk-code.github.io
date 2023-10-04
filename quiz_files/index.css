@@ -12,11 +12,43 @@
 .res-header { border-bottom:1px solid #ccc; margin-bottom:15px; padding-bottom:15px; }
 
 
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
 
-@media only screen and (max-width: 600px) {
-        .modal {
-                width: 50vw;
-                height: 50vh;
-                height: calc(var(--vh, 1vh) * 50);
-        }
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.red {background:#f97171}
+.orange {background:#f99e50}
+.yellow {background:#f5d55f}
+.green {background:#c5ed77}
+.aqua {background:#72f1d4}
+.blue {background:#72c2f1}
+.purple {background:#987ded}
+.pink {background:#dc7ded}
+
+
+@media only screen and (max-width: 600px)
+{
+
+  .modal
+  {
+     width: 50vw;
+     height: 50vh;
+     height: calc(var(--vh, 1vh) * 50);
+  }
+
+  .column
+  {
+    width: 50%;
+  }
+
 }
