@@ -28,7 +28,7 @@
     {
       "number": 6,
       "question": "A rod of wire used to send or revive TV signal",
-      "answers": [ "antina", "invention", "Shook" ], "correct_answer": 1
+      "answers": [ "antenna", "invention", "Shook" ], "correct_answer": 1
     },
     {
       "number": 7,
@@ -42,13 +42,13 @@
     },
     {
       "number": 9,
-      "question": "Why Mr Wonka wand Mike to stand back",
+      "question": "Why Mr Wonka want Mike to stand back",
       "answers": [ "He was standing close to camera", "Rays could break him into pieces", "Both" ], "correct_answer": 3
     },
     {
       "number": 10,
       "question": "What kind of boy was charlie",
-      "answers": [ "Shy and quiet", "Curious about Wonka's Chocklet",
+      "answers": [ "Shy and quiet", "Curious about Wonka's chocolate",
                    "Understand that sending chocolate through TV was possible", "All three" ], "correct_answer": 4
     },
     {
