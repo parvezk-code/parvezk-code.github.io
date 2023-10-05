@@ -69,7 +69,36 @@
       "number": 14,
       "question": "<math>27<mfrac><mrow>38</mrow><mrow>100</mrow></mfrac></math> in decimal form",
       "answers": [ "27.038", "27.38", "27.0038" ], "correct_answer": 2
+    },
+    {
+      "number": 15,
+      "question": "Convert 2.05 into fraction",
+      "answers": [ "<math>2<mfrac><mrow>5</mrow><mrow>100</mrow></mfrac></math>",
+                   "<math>2<mfrac><mrow>5</mrow><mrow>10</mrow></mfrac></math>",
+                   "<math>2<mfrac><mrow>5</mrow><mrow>100</mrow></mfrac></math>" ], "correct_answer": 1
+    },
+    {
+      "number": 16,
+      "question": "Convert 28.45 into fraction",
+      "answers": [ "<math>28<mfrac><mrow>45</mrow><mrow>1000</mrow></mfrac></math>",
+                   "<math>28<mfrac><mrow>45</mrow><mrow>10</mrow></mfrac></math>",
+                   "<math>28<mfrac><mrow>45</mrow><mrow>100</mrow></mfrac></math>" ], "correct_answer": 3
+    },
+    {
+      "number": 17,
+      "question": "Convert 470.08 into fraction",
+      "answers": [ "<math>47<mfrac><mrow>8</mrow><mrow>100</mrow></mfrac></math>",
+                   "<math>470<mfrac><mrow>8</mrow><mrow>100</mrow></mfrac></math>",
+                   "<math>470<mfrac><mrow>8</mrow><mrow>10</mrow></mfrac></math>" ], "correct_answer": 2
+    },
+    {
+      "number": 18,
+      "question": "Convert 6.006 into fraction",
+      "answers": [ "<math>6<mfrac><mrow>6</mrow><mrow>1000</mrow></mfrac></math>",
+                   "<math>6<mfrac><mrow>6</mrow><mrow>100</mrow></mfrac></math>",
+                   "<math>6<mfrac><mrow>6</mrow><mrow>10</mrow></mfrac></math>" ], "correct_answer": 1
     }
+
   ]
 }
 
