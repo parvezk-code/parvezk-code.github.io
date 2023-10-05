@@ -75,7 +75,7 @@
       "question": "Convert 2.05 into fraction",
       "answers": [ "<math>2<mfrac><mrow>5</mrow><mrow>100</mrow></mfrac></math>",
                    "<math>2<mfrac><mrow>5</mrow><mrow>10</mrow></mfrac></math>",
-                   "<math>2<mfrac><mrow>5</mrow><mrow>100</mrow></mfrac></math>" ], "correct_answer": 1
+                   "<math>2<mfrac><mrow>5</mrow><mrow>1000</mrow></mfrac></math>" ], "correct_answer": 1
     },
     {
       "number": 16,
