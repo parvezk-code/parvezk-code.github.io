@@ -120,20 +120,44 @@
                    "<math><mfrac><mrow>7</mrow><mrow>100</mrow></mfrac></math>" ], "correct_answer": 2
     },
     {
-      "number": 21,
+      "number": 22,
       "question": "Find place value of 7 in 46.7014",
       "answers": [ "<math><mfrac><mrow>7</mrow><mrow>1000</mrow></mfrac></math>",
                    "<math><mfrac><mrow>7</mrow><mrow>100</mrow></mfrac></math>",
                    "<math><mfrac><mrow>7</mrow><mrow>10</mrow></mfrac></math>" ], "correct_answer": 3
     },
     {
-      "number": 22,
+      "number": 23,
       "question": "Write expand form of 46.7014",
       "answers": [ "400 + 60 + 7 + 0&frasl;10 + 1&frasl;100 + 4&frasl;100",
                    "400 + 60 + 7&frasl;10 + 0&frasl;100 + 1&frasl;1000 + 4&frasl;1000",
                    "40 + 6 + 7&frasl;10 + 0&frasl;100 + 1&frasl;1000 + 4&frasl;1000" ], "correct_answer": 3
+    },
+    {
+      "number": 24,
+      "question": "Write decimal form of (3x100) + (2x10) + 2&frasl;10 + 0&frasl;100 + 6&frasl;100",
+      "answers": [ "32.206", "320.206", "32.26" ], "correct_answer": 2
+    },
+    {
+      "number": 25,
+      "question": "Multiply the place value of 7 in 7126.45 by the place value of 7 in 16.1705",
+      "answers": [ "490", "4900", "49" ], "correct_answer": 1
+    },
+    {
+      "number": 26,
+      "question": "Which is equivalent of 0.45",
+      "answers": [ "0.405", "0.045", "0.4500" ], "correct_answer": 3
+    },
+    {
+      "number": 27,
+      "question": "Which number is different from others",
+      "answers": [ "0.003", "0.03", "0.0300", "0.030" ], "correct_answer": 1
+    },
+    {
+      "number": 28,
+      "question": "Which number is different from others",
+      "answers": [ "0.56", "0.560", "0.5600", "5.6" ], "correct_answer": 4
     }
-
   ]
 }
 
