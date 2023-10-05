@@ -135,7 +135,7 @@
     },
     {
       "number": 24,
-      "question": "Write decimal form of (3x100) + (2x10) + 2&frasl;10 + 0&frasl;100 + 6&frasl;100",
+      "question": "Write decimal form of (3x100) + (2x10) + (2&frasl;10) + (0&frasl;100) + (6&frasl;100"),
       "answers": [ "32.206", "320.206", "32.26" ], "correct_answer": 2
     },
     {
