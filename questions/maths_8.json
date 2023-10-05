@@ -97,6 +97,41 @@
       "answers": [ "<math>6<mfrac><mrow>6</mrow><mrow>1000</mrow></mfrac></math>",
                    "<math>6<mfrac><mrow>6</mrow><mrow>100</mrow></mfrac></math>",
                    "<math>6<mfrac><mrow>6</mrow><mrow>10</mrow></mfrac></math>" ], "correct_answer": 1
+    },
+    {
+      "number": 19,
+      "question": "Find place value of 7 in 46.0714",
+      "answers": [ "<math><mfrac><mrow>7</mrow><mrow>1000</mrow></mfrac></math>",
+                   "<math><mfrac><mrow>7</mrow><mrow>100</mrow></mfrac></math>",
+                   "<math><mfrac><mrow>7</mrow><mrow>10</mrow></mfrac></math>" ], "correct_answer": 2
+    },
+    {
+      "number": 20,
+      "question": "Find place value of 7 in 46.0274",
+      "answers": [ "<math><mfrac><mrow>7</mrow><mrow>1000</mrow></mfrac></math>",
+                   "<math><mfrac><mrow>7</mrow><mrow>100</mrow></mfrac></math>",
+                   "<math><mfrac><mrow>7</mrow><mrow>10</mrow></mfrac></math>" ], "correct_answer": 1
+    },
+    {
+      "number": 21,
+      "question": "Find place value of 7 in 46.4017",
+      "answers": [ "<math><mfrac><mrow>7</mrow><mrow>1000</mrow></mfrac></math>",
+                   "<math><mfrac><mrow>7</mrow><mrow>10000</mrow></mfrac></math>",
+                   "<math><mfrac><mrow>7</mrow><mrow>100</mrow></mfrac></math>" ], "correct_answer": 2
+    },
+    {
+      "number": 21,
+      "question": "Find place value of 7 in 46.7014",
+      "answers": [ "<math><mfrac><mrow>7</mrow><mrow>1000</mrow></mfrac></math>",
+                   "<math><mfrac><mrow>7</mrow><mrow>100</mrow></mfrac></math>",
+                   "<math><mfrac><mrow>7</mrow><mrow>10</mrow></mfrac></math>" ], "correct_answer": 3
+    },
+    {
+      "number": 22,
+      "question": "Write expand form of 46.7014",
+      "answers": [ "400 + 60 + 7 + 0&frasl;10 + 1&frasl;100 + 4&frasl;100",
+                   "400 + 60 + 7&frasl;10 + 0&frasl;100 + 1&frasl;1000 + 4&frasl;1000",
+                   "40 + 6 + 7&frasl;10 + 0&frasl;100 + 1&frasl;1000 + 4&frasl;1000" ], "correct_answer": 3
     }
 
   ]
