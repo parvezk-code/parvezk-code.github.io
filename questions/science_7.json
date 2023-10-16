@@ -94,6 +94,54 @@
       "number": 19,
       "question": "Which part of the leaf helps in breathing ____________",
        "answers": [ "Stomata", "sun light", "Leaf Blade" ], "correct_answer": 1
+    },
+    {
+      "number": 20,
+      "question": "Define Bleaching",
+       "answers": [ "process by which green plan make their food", "process of removing green color of leaf",
+                     "process of bleach" ], "correct_answer": 2
+    },
+    {
+      "number": 21,
+      "question": "Why are leaves green in color",
+       "answers": [ "due to the presence of water", "due to the presence of starch",
+                     "due to the presence of Chlo-ro-phyll" ], "correct_answer": 3
+    },
+    {
+      "number": 22,
+      "question": "Why are croton leaves are dark red in color",
+       "answers": [ "red pigment hides the green color of Chlo-ro-phyll", "Chlo-ro-phyll is red in color",
+                     "Leaf Blades are red in color" ], "correct_answer": 1
+    },
+    {
+      "number": 23,
+      "question": "Why are leaves called kitchen of plants",
+       "answers": [ "Leaf prepare blood for the plant", "due to the presence of water",
+                     "Leaf prepare food for the plants" ], "correct_answer": 3
+    },
+    {
+      "number": 24,
+      "question": "What will happen if the number of animals increase suddenly",
+       "answers": [ "red pigment hides the green color of Chlo-ro-phyll", "There will be in-sufficient food and oxygen for animals",
+                     "Ther will not be enough cactus plants" ], "correct_answer": 2
+    },
+    {
+      "number": 25,
+      "question": "How do plants use their food",
+       "answers": [ "to grow and repair damange", "and produce energy", "store extra food in the form of starch",
+                    "all above" ], "correct_answer": 4
+    },
+    {
+      "number": 26,
+      "question": "What is food chain",
+       "answers": [ "flow of energy from one organism to another", "flow of water from one organism to another",
+                     "flow of plant from one organism to another" ], "correct_answer": 1
+    },
+    {
+      "number": 27,
+      "question": "Explain the process of photo-syn-the-sis",
+       "answers": [ "flow of energy from one organism to another", "process by which leaves prepare food with CO2, water and sunlight",
+                     "process of removing green color of leaf" ], "correct_answer": 2
     }
 
   ]
