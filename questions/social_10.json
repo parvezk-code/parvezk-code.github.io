@@ -70,7 +70,7 @@
     },
     {
       "number": 14,
-      "question": "How is helicopter useful",
+      "question": "(Write) How is helicopter useful",
       "answers": [ "Rescue people", "Drop medicines and food in ",  "Can reach difficult areas", "All three" ], "correct_answer": 4
     },
     {
@@ -80,13 +80,53 @@
     },
     {
       "number": 16,
-      "question": "Why is internet boon",
+      "question": "(Write) Why is internet boon",
       "answers": [ "Help us travel", "Helps us get important information", "Help us to rescue people" ], "correct_answer": 2
     },
     {
       "number": 17,
-      "question": "Why madhya-pradesh, Chattis-garh dont have port.",
+      "question": "(Write) Why madhya-pradesh, Chattis-garh dont have port.",
       "answers": [ "Do not have road", "Do not have air-port","Do not connect sea or ocean" ], "correct_answer": 3
+    }
+    {
+      "number": 18,
+      "question": "(Write) Why is TV better than newpaper",
+      "answers": [ "It is audio video means", "benefits il-lite-rate people", "both" ], "correct_answer": 3
+    },
+    {
+      "number": 19,
+      "question": "(Write) Land transport",
+      "answers": [ "Vehicles that move on land", "ex. car, cycle, train", "types- rail and road", "all above" ], "correct_answer": 4
+    },
+    {
+      "number": 20,
+      "question": "(Write) Water transport",
+      "answers": [ "Vehicle that travel on water", "ex, boat, ships", "both" ], "correct_answer": 3
+    },
+    {
+      "number": 21,
+      "question": "(Write) Air transport",
+      "answers": [ "Vehicles that travel in air", "ex, aeroplane, heli-copter", "both" ], "correct_answer": 3
+    },
+    {
+      "number": 22,
+      "question": "(Write) Metalled Roads",
+      "answers": [ "Made of stones, cement, tar", "Cities and towns have metalled roads", "both" ], "correct_answer": 3
+    },
+    {
+      "number": 23,
+      "question": "(Write) Un-metalled Roads",
+      "answers": [ "Made of mud", "Villages have un-metalled roads", "both" ], "correct_answer": 3
+    },
+    {
+      "number": 24,
+      "question": "(Write) Postal communication",
+      "answers": [ "done by post-card", "it is slow", "message is written", "all" ], "correct_answer": 4
+    },
+    {
+      "number": 7,
+      "question": "(Write) Tele-communication",
+      "answers": [ "done by radio, tele-phone", "it is fast", "message is verbal", "all"], "correct_answer": 4
     }
   ]
 }
