@@ -91,43 +91,7 @@
       "number": 18,
       "question": "(Write) Why plants are green gold",
       "answers": [ "plants are source of health and wealth", "give food, oxygen and other useful things", "both" ], "correct_answer": 3
-    },
-    {
-      "number": 19,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 20,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 21,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 22,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 23,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 24,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 25,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz", "zzz", "zzz", "zzz" ], "correct_answer": 5
     }
-
   ]
 }
 
