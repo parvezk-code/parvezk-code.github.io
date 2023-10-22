@@ -2,68 +2,69 @@
   "questions": [
     {
       "number": 1,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "_____ used to generate electricity from wind",
+      "answers": [ "windmill", "windgalss", "windfall", "windblast" ], "correct_answer": 1
     },
     {
       "number": 2,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "_____ runs on coal",
+      "answers": [ "car", "bus", "steam engine", "scooter" ], "correct_answer": 3
     },
     {
       "number": 3,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "Energy we get from sun is ______",
+      "answers": [ "thermal", "hydel", "tidal", "solar" ], "correct_answer": 4
     },
     {
       "number": 4,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "_____ is green gold",
+      "answers": [ "Humans", "Plants", "Animals", "Soil" ], "correct_answer": 2
     },
     {
       "number": 5,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "A gift of nature becomes resource when it satisfies human needs",
+      "answers": [ "True", "False" ], "correct_answer": 1
     },
     {
       "number": 6,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "We can create exhaustible resources",
+      "answers": [ "True", "False" ], "correct_answer": 2
     },
     {
       "number": 7,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "Other name of petroleum is black gold",
+      "answers": [ "True", "False" ], "correct_answer": 1
     },
     {
       "number": 8,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "Hydro electricity is generated from water",
+      "answers": [ "True", "False" ], "correct_answer": 1
     },
     {
       "number": 9,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "We must pollute air",
+      "answers": [ "True", "False" ], "correct_answer": 2
     },
     {
       "number": 10,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Define fuel",
+      "answers": [ "Material that burns to get energy", "material that satisfy our need", "both" ], "correct_answer": 1
     },
     {
       "number": 11,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Define resource",
+      "answers": [ "Material that burns to get energy", "material that satisfy our need", "both" ], "correct_answer": 2
     },
     {
       "number": 12,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Two types of resources",
+      "answers": [ "Natural(NR) and human made(HMR)", "land, air, water, soil are NR*",
+                   "things made by humans like building, roads are HMR*", "all" ], "correct_answer": 4
     },
     {
       "number": 13,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) uses of coal",
+      "answers": [ "Used to cook, heat and generate electricity", "Used to run steam engine", "both" ], "correct_answer": 3
     },
     {
       "number": 14,
@@ -123,7 +124,7 @@
     {
       "number": 25,
       "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "answers": [ "zzz", "zzz", "zzz", "zzz", "zzz", "zzz" ], "correct_answer": 5
     }
 
   ]

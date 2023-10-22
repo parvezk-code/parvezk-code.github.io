@@ -67,8 +67,8 @@ function processQueList() {
 
 function processQuestion(que, num){
 	setQuestion(que.question , num);
-	unMarkOption(1); unMarkOption(2); unMarkOption(3); unMarkOption(4);unSetFill();
-	hideOption(1); hideOption(2); hideOption(3); hideOption(4);hideFill();
+	unMarkOption(1); unMarkOption(2); unMarkOption(3); unMarkOption(4);unMarkOption(5);unMarkOption(6);unSetFill();
+	hideOption(1); hideOption(2); hideOption(3); hideOption(4);hideOption(5);hideOption(6);hideFill();
 	if(que.answers === undefined){
 		showFill();
 		if (qList.questions[currQue-1].choice === undefined) {
