@@ -68,28 +68,29 @@
     },
     {
       "number": 14,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) How can we conserve natural resources",
+      "answers": [ "Plant more trees", "save electricity", "should not pollute air, water, soil",
+                   "should not hunt wild animals", "all" ], "correct_answer": 5
     },
     {
       "number": 15,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Exhaustible resource",
+      "answers": [ "Gets exhausted after use", "called non-renewable resources", "Example- metal, coal, petroleum", "all" ], "correct_answer": 4
     },
     {
       "number": 16,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) In-exhaustible resource",
+      "answers": [ "Do not get exhausted after use", "called renewable resources", "Example- air, water, plant", "all" ], "correct_answer": 4
     },
     {
       "number": 17,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) New buildings have solar heaters and roof tops",
+      "answers": [ "renewable and abundent", "to promote clean energy", "both" ], "correct_answer": 3
     },
     {
       "number": 18,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Why plants are green gold",
+      "answers": [ "plants are source of health and wealth", "give food, oxygen and other useful things", "both" ], "correct_answer": 3
     },
     {
       "number": 19,
