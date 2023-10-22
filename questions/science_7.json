@@ -142,6 +142,31 @@
       "question": "Explain the process of photo-syn-the-sis",
        "answers": [ "flow of energy from one organism to another", "process by which leaves prepare food with CO2, water and sunlight",
                      "process of removing green color of leaf" ], "correct_answer": 2
+    },
+    {
+      "number": 28,
+      "question": "(Write) What is stalk",
+       "answers": [ "stalk joins leaf with stem" ], "correct_answer": 1
+    },
+    {
+      "number": 29,
+      "question": "(Write) What is leaf blade",
+       "answers": [ "Flat part of leaf", "traps sun light", "both" ], "correct_answer": 3
+    },
+    {
+      "number": 30,
+      "question": "(Write) What is main vein",
+       "answers": [ "Run through middle of leaf" ], "correct_answer": 1
+    },
+    {
+      "number": 31,
+      "question": "(Write) What is side vein",
+       "answers": [ "arrive from main vein", "transport water, minerals", "prepare food for leaf", "all" ], "correct_answer": 4
+    },
+    {
+      "number": 28,
+      "question": "(Write) What is stomata",
+       "answers": [ "tiny pores are called stomata", "leaf take CO2 and give oxygen through stomata", "both" ], "correct_answer": 3
     }
 
   ]
