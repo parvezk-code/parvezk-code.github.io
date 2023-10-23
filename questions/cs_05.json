@@ -48,7 +48,7 @@
     {
       "number": 10,
       "question": "View button",
-      "answers": [ "F5", "Ctr + M", " extreme left of horizontal scroll bar", "minia-ture view of slides" ], "correct_answer": 2
+      "answers": [ "F5", "Ctr + M", " extreme left of horizontal scroll bar", "minia-ture view of slides" ], "correct_answer": 3
     },
     {
       "number": 11,
@@ -77,27 +77,27 @@
     },
     {
       "number": 16,
-      "question": "What is power point",
+      "question": "(Write) What is power point",
       "answers": [ "presentation software", "help to explain topics", "part of micro-soft office", "all above" ], "correct_answer": 4
     },
     {
       "number": 17,
-      "question": "What do you understand by presentation",
+      "question": "(Write) What do you understand by presentation",
       "answers": [ "Collection of slides, handout and notes in one file", "Collection of games", "Collection of books, copies" ], "correct_answer": 1
     },
     {
       "number": 18,
-      "question": "What is place holder",
+      "question": "(Write) What is place holder",
       "answers": [ "Dotted rectangular box", "used to add contents to slide", "both" ], "correct_answer": 3
     },
     {
       "number": 19,
-      "question": "Different view options in power-point",
+      "question": "(Write) Different view options in power-point",
       "answers": [ "normal view", "reading view", "sorter view, slide show", "all above" ], "correct_answer": 4
     },
     {
       "number": 20,
-      "question": "Steps to open presentation",
+      "question": "(Write) Steps to open presentation",
       "answers": [ "Click on file", "Click on open", "Select the file and click open", "all above" ], "correct_answer": 4
     }
   ]
