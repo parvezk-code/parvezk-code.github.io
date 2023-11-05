@@ -74,12 +74,12 @@
     },
     {
       "number": 15,
-      "question": "(Write) Exhaustible resource",
+      "question": "(Write) Difference Exhaustible and In-exhaustible resource",
       "answers": [ "Gets exhausted after use", "called non-renewable resources", "Example- metal, coal, petroleum", "all" ], "correct_answer": 4
     },
     {
       "number": 16,
-      "question": "(Write) In-exhaustible resource",
+      "question": "(Write) Difference In-exhaustible resource and Exhaustible",
       "answers": [ "Do not get exhausted after use", "called renewable resources", "Example- air, water, plant", "all" ], "correct_answer": 4
     },
     {
