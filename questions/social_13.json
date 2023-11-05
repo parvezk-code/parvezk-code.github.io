@@ -3,11 +3,11 @@
     {
       "number": 1,
       "question": "Main source of fresh water",
-      "answers": [ "river", "lake", "rain", "pond" ], "correct_answer": 1
+      "answers": [ "river", "lake", "rain", "pond" ], "correct_answer": 3
     },
     {
       "number": 2,
-      "question": "which state has tank irrigation populat",
+      "question": "which state has tank irrigation popular",
       "answers": [ "punjab", "karnataka", "goa", "haryana" ], "correct_answer": 2
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "number": 5,
-      "question": "Rain water that seeps in ground to colect is ______",
+      "question": "Rain water that seeps in ground to collect is ______",
       "answers": [ "ponds", "river", "groud water" ], "correct_answer": 3
     },
     {
