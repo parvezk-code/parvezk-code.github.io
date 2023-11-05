@@ -2,130 +2,84 @@
   "questions": [
     {
       "number": 1,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "Main source of fresh water",
+      "answers": [ "river", "lake", "rain", "pond" ], "correct_answer": 1
     },
     {
       "number": 2,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "which state has tank irrigation populat",
+      "answers": [ "punjab", "karnataka", "goa", "haryana" ], "correct_answer": 2
     },
     {
       "number": 3,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "wall built across the river called",
+      "answers": [ "canel", "tubewell", "dam" ], "correct_answer": 3
     },
     {
       "number": 4,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "which river has Mettur dam",
+      "answers": [ "krishna", "kareri", "satluj" ], "correct_answer": 2
     },
     {
       "number": 5,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "Rain water that seeps in ground to colect is ______",
+      "answers": [ "ponds", "river", "groud water" ], "correct_answer": 3
     },
     {
       "number": 6,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "channels which carry water from river to fields is ________",
+      "answers": [ "canals", "pond", "tubewell" ], "correct_answer": 1
     },
     {
       "number": 7,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "In ______ irrigation water is sprayed on plants",
+      "answers": [ "tubewell", "sprinklers", "pump" ], "correct_answer": 2
     },
     {
       "number": 8,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "A lake created behind a dam is _______",
+      "answers": [ "pond", "ground water", "reser-voir" ], "correct_answer": 3
     },
     {
       "number": 9,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "Electricity generated from falling water is _______",
+      "answers": [ "hydro-electricity", "air-electricity", "water-electricity" ], "correct_answer": 1
     },
     {
       "number": 10,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Define hydro-electricity",
+      "answers": [ "Electricity from river", "Electricity from falling water", "Electricity from air" ], "correct_answer": 2
     },
     {
       "number": 11,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Define Persian wheel",
+      "answers": [ "wooden or metal wheel", "used to draw from well", "both" ], "correct_answer": 3
     },
     {
       "number": 12,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) two ways to save water",
+      "answers": [ "do not leave the tap open", "use bucket and mug to wash car", "both" ], "correct_answer": 3
     },
     {
       "number": 13,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) What is rain water harvesting",
+      "answers": [ "storing water for later use", "done in areas where there is shortage of water", "both" ], "correct_answer": 3
     },
     {
       "number": 14,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Source of irrigation - canals",
+      "answers": [ "small channels from river to fields", "they carry water", "both" ], "correct_answer": 3
     },
     {
       "number": 15,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Source of irrigation -  tanks",
+      "answers": [ "store rain water", "used where wells can not be made", "both" ], "correct_answer": 3
     },
     {
       "number": 16,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 17,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 18,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 19,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 20,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 21,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 22,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 23,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 24,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 25,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
+      "question": "(Write) Why dams are called multi-purpose project ",
+      "answers": [ "barrier that stop flow of water", "They contro floods", "Help in irrigation", "produce electricity", "all" ], "correct_answer": 5
     }
-
   ]
 }
 
