@@ -164,9 +164,14 @@
        "answers": [ "arrive from main vein", "transport water, minerals", "prepare food for leaf", "all" ], "correct_answer": 4
     },
     {
-      "number": 28,
+      "number": 32,
       "question": "(Write) What is stomata",
        "answers": [ "tiny pores are called stomata", "leaf take CO2 and give oxygen through stomata", "both" ], "correct_answer": 3
+    },
+    {
+      "number": 33,
+      "question": "(Write) Show potato contain starch",
+       "answers": [ "cut the potato", "add drops of iodine solution", "it turns blue-black in color", "all" ], "correct_answer": 4
     }
 
   ]
