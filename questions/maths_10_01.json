@@ -38,7 +38,7 @@
     {
       "number": 8,
       "question": "What is written for time in morning",
-      "answers": [ "EM", "PM", "AM" ], "correct_answer": 1
+      "answers": [ "EM", "PM", "AM" ], "correct_answer": 3
     },
     {
       "number": 9,
@@ -63,12 +63,12 @@
     {
       "number": 13,
       "question": "2 hours after 11 AM",
-      "answers": [ "1 AM", "12 PM", "1 PM" ], "correct_answer": 0
+      "answers": [ "1 AM", "12 PM", "1 PM" ], "correct_answer": 3
     },
     {
       "number": 14,
       "question": "3 hours before 2 PM",
-      "answers": [ "11 PM", "11 AM", "12 PM" ], "correct_answer": 0
+      "answers": [ "11 PM", "11 AM", "12 PM" ], "correct_answer": 2
     }
   ]
 }

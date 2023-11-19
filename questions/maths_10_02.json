@@ -42,7 +42,7 @@
     {
       "number": 8,
       "question": "How many hours in 480 min",
-      "answers": [ "4", "7", "6" ], "correct_answer": 3
+      "answers": [ "4", "7", "8" ], "correct_answer": 3
     }
 
   ]
