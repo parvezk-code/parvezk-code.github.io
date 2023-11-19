@@ -15,7 +15,7 @@
     {
       "number": 3,
       "question": "3 hours has",
-      "answers": [ "3x60 min", "3x30 min", "3x7 min" ], "correct_answer": 0
+      "answers": [ "3x60 min", "3x30 min", "3x7 min" ], "correct_answer": 1
     },
     {
       "number": 4,
