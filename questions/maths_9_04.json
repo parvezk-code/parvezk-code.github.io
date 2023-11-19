@@ -39,11 +39,6 @@
       "number": 8,
       "question": "Arpita bought 4L, 2L 250ml and 4L 750ml milk. How much is buy whole day?",
       "answers": [ "11L 10ml", "11L 0ml", "12L 0ml" ], "correct_answer": 2
-    },
-    {
-      "number": 9,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
     }
   ]
 }
