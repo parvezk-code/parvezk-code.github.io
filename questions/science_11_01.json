@@ -99,33 +99,7 @@
       "number": 20,
       "question": "(Write) main source of energy on earth",
       "answers": [ "wind", "water", "sun" ], "correct_answer": 3
-    },
-    {
-      "number": 21,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 22,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 23,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 24,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
-    },
-    {
-      "number": 25,
-      "question": "zzz",
-      "answers": [ "zzz", "zzz", "zzz" ], "correct_answer": 0
     }
-
   ]
 }
 
