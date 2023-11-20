@@ -40,6 +40,36 @@
       "number": 8,
       "question": "(Write) Adaptation of floating plants",
       "answers": [ "have light and sopn-gy bodies", "stems are reduces", "roots not well developed", "all" ], "correct_answer": 4
+    },
+    {
+      "number": 9,
+      "question": "Habitat of cactus",
+      "answers": [ "Plains", "Desert", "Aquatic region", "Mountains" ], "correct_answer": 2
+    },
+    {
+      "number": 10,
+      "question": "Habitat of Mango tree",
+      "answers": [ "Plains", "Desert", "Aquatic region", "Mountains" ], "correct_answer": 1
+    },
+    {
+      "number": 11,
+      "question": "Habitat of Lotus",
+      "answers": [ "Plains", "Desert", "Aquatic region", "Mountains" ], "correct_answer": 3
+    },
+    {
+      "number": 12,
+      "question": "(Write) Adaptation of cactus",
+      "answers": [ "Leaves change into spines to reduce water", "Stem is green and can prepare food", "all" ], "correct_answer": 3
+    },
+    {
+      "number": 13,
+      "question": "(Write) Adaptation of mango tree",
+      "answers": [ "have wide spread branches", "have flat and thin leaves", "all" ], "correct_answer": 3
+    },
+    {
+      "number": 14,
+      "question": "(Write) Adaptation of Lotus",
+      "answers": [ "have hollow and light stem", "leaves are broad", "waxy coating prevent them from rotting", "all" ], "correct_answer": 4
     }
   ]
 }
