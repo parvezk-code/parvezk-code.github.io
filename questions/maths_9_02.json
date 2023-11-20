@@ -13,7 +13,7 @@
     {
       "number": 3,
       "question": "Convert into meter : 4 Km 450 m",
-      "answers": [ "4000 meters", "450 meters", "4500 meters" ], "correct_answer": 3
+      "answers": [ "4000 meters", "450 meters", "4450 meters" ], "correct_answer": 3
     },
     {
       "number": 4,
