@@ -82,13 +82,29 @@
     },
     {
       "number": 17,
-      "question": "(Write) Name the animal whose life-cycle involves metamorphosis",
+      "question": "(Write) Name the animal whose life-cycle in-volv-es meta-mor-pho-sis",
       "answers": [ "cockroach", "frog", "butterfly" ], "correct_answer": 3
     },
     {
       "number": 18,
       "question": "(Write) Larva of butterfly is called",
       "answers": [ "caterpillar", "maggot", "pupa" ], "correct_answer": 1
+    },
+    {
+      "number": 19,
+      "question": "(Write) Define reproduction",
+      "answers": [ "process by which animals produce butterfiles", "process by which animals produce young ones",
+                   "process by which animals produce frogs" ], "correct_answer": 2
+    },
+    {
+      "number": 20,
+      "question": "(Write) Define mammals",
+      "answers": [ "Animals who lay eggs", "Animlas who feed water", "Animlas who feed their own milk to their young ones" ], "correct_answer": 3
+    },
+    {
+      "number": 21,
+      "question": "(Write) Define moulting",
+      "answers": [ "shedding of old skin", "shedding of old hair", "shedding of old nails" ], "correct_answer": 1
     }
   ]
 }
