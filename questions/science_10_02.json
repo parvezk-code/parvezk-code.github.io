@@ -1,4 +1,5 @@
-
+{
+  "questions": [
     {
       "number": 1,
       "question": "(Write) Define Hibernation",
@@ -44,6 +45,7 @@
       "number": 9,
       "question": "(Write) How is frog adapt to live on both land and water",
       "answers": [ "Frog have moist skin to breath in water", "Frog have lungs to breath on land", "both" ], "correct_answer": 3
+    }
     {
       "number": 10,
       "question": "(Write) Why do bees and wasp have sting",
@@ -54,4 +56,16 @@
       "number": 11,
       "question": "(Write) Why do sca-venger have sharp beak",
       "answers": [ "To protect themselves from emenies", "To tear the flesh of dead animals", "To inject poison into the bodies of enemies" ], "correct_answer": 2
+    },
+    {
+      "number": 12,
+      "question": "(Write) Why do siberian birds leave their names in winter season",
+      "answers": [ "They migrate to warmer places in winter season", " in search of food and shelter", "This is called migration", "all" ], "correct_answer": 4
+    },
+    {
+      "number": 13,
+      "question": "(Write) What is en-dangered animals",
+      "answers": [ "Animals that are in danger of becomming extinct are called en-dangered animals", "We need to protect them", "both" ], "correct_answer": 3
     }
+  ]
+}
