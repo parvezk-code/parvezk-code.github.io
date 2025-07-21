@@ -1,0 +1,38 @@
+<html>
+
+<head>
+  <link rel="stylesheet" href="./styles/topic-selector.css">
+  <script src="./scripts/components/topic-selector.js" defer></script>
+</head>
+<body>
+  <topic-selector id="topicSel"></topic-selector>
+
+  <script>
+    const config = [
+      {
+        "id": "001",
+        "topic": "Front behind",
+        "quiz_id": "maths_01_lines_angles",
+        "link": "data/school/c1_miriam/maths_01_front_behind.json",
+        "description": "front behind"
+      },
+      {
+        "id": "002",
+        "topic": "ON under",
+        "quiz_id": "maths_01_lines_angles",
+        "link": "data/school/c1_miriam/maths_01_on_under.json",
+        "description": "on under"
+      }
+    ];
+
+    document.getElementById('topicSel').setAttribute('config', JSON.stringify(config));
+
+    document.getElementById('topicSel').addEventListener('topicSelected', (e) => {
+      console.log("Selected topic:", e.detail);
+      // Use e.detail.link or other properties as needed
+    });
+  </script>
+</body>
+
+
+</html>

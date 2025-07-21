@@ -1,0 +1,137 @@
+{
+  "class": "1",
+  "subjects": {
+    "Math": [
+      {
+        "id": "001",
+        "link": "data/school/c1_miriam/maths/maths_01_front_behind.json",
+        "topic": "Front  behind",
+        "description": "front behind",
+        "quiz_id": "maths_01_lines_angles"
+      },
+      {
+        "id": "003",
+        "link": "data/school/c1_miriam/maths/maths_01_on_under.json",
+        "topic": "ON under",
+        "description": "on under",
+        "quiz_id": "maths_01_lines_angles"
+      },
+      {
+        "id": "005",
+        "link": "data/school/c1_miriam/maths/maths_02_shapes.json",
+        "topic": "Shapes",
+        "description": "Shapes",
+        "quiz_id": "maths_01_lines_angles"
+      },
+      {
+        "id": "007",
+        "link": "data/school/c1_miriam/maths/maths_02_after.json",
+        "topic": "After",
+        "description": "After",
+        "quiz_id": "maths_02_after"
+      },
+      {
+        "id": "009",
+        "link": "data/school/c1_miriam/maths/maths_02_before.json",
+        "topic": "Before",
+        "description": "Before",
+        "quiz_id": "maths_02_before"
+      },
+      {
+        "id": "011",
+        "link": "data/school/c1_miriam/maths/maths_03_numbers_01.json",
+        "topic": "Numbers 1",
+        "description": "Numbers 1",
+        "quiz_id": "maths_03_Numbers"
+      },
+      {
+        "id": "013",
+        "link": "data/school/c1_miriam/maths/maths_03_numbers_02.json",
+        "topic": "Numbers 2",
+        "description": "Numbers 2",
+        "quiz_id": "maths_03_Numbers"
+      }
+    ],
+    "EVS": [
+      {
+        "id": "001",
+        "link": "data/school/c1_miriam/evs/evs_01_a.json",
+        "description": "Body part 01",
+        "topic": "Body part 01",
+        "quiz_id": "maths_01_lines_angles"
+      },
+      {
+        "id": "002",
+        "link": "data/school/c1_miriam/evs/evs_01_b.json",
+        "description": "Body part 02",
+        "topic": "Body part 02",
+        "quiz_id": "maths_01_lines_angles"
+      },
+      {
+        "id": "003",
+        "link": "data/school/c1_miriam/evs/evs_words_01.json",
+        "description": "Words pt-1",
+        "topic": "Words pt-1",
+        "quiz_id": "Words pt-1"
+      }
+    ],
+    "Grammer": [
+      {
+        "id": "001",
+        "link": "data/school/c1_miriam/english/grammer_01.json",
+        "description": "Grammer 01",
+        "topic": "Grammer 01",
+        "quiz_id": "grammer_01"
+      },
+      {
+        "id": "002",
+        "link": "data/school/c1_miriam/english/grammer_02.json",
+        "description": "Grammer 02",
+        "topic": "Grammer 02",
+        "quiz_id": "grammer_02"
+      }
+    ],
+    "English": [
+      {
+        "id": "002",
+        "link": "data/school/c1_miriam/english/english_02_03.json",
+        "description": "Amy raghu",
+        "topic": "Amy raghu",
+        "quiz_id": "english_02_03"
+      },
+      {
+        "id": "002",
+        "link": "data/school/c1_miriam/english/english_02_X.json",
+        "description": "English x",
+        "topic": "English x",
+        "quiz_id": "English x"
+      },
+      {
+        "id": "003",
+        "link": "data/school/c1_miriam/english/english_words_01.json",
+        "description": "Words pt-1",
+        "topic": "Words pt-1",
+        "quiz_id": "Words pt-1"
+      }
+    ],
+    "Hindi":[
+      {
+        "id": "001",
+        "link": "data/school/c1_miriam/hindi/L_04_vinti.json",
+        "description": "vinti-04",
+        "topic": "vinti-04",
+        "quiz_id": "vinti-04"
+      }
+
+    ],
+    "Computer":[
+      {
+        "id": "001",
+        "link": "data/school/c1_miriam/comp/comp_01.json",
+        "description": "Unit 01",
+        "topic": "Unit 01",
+        "quiz_id": "maths_01_lines_angles"
+      }
+    ]
+  }
+}

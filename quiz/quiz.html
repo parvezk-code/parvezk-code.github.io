@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App MVC</title>
+    <link rel="stylesheet" href="styles/quiz.css">
+    <link rel="stylesheet" href="styles/multi-fill-in-blank.css">
+    <link rel="stylesheet" href="styles/fill-in-blank-multi-option.css">
+    <link rel="stylesheet" href="styles/fill-in-blank-multi-table.css">
+    <link rel="stylesheet" href="styles/fill-in-blank-multi-table-image.css">
+    <link rel="stylesheet" href="styles/fill-in-blank-multi-table-image-2-col.css">
+    <link rel="stylesheet" href="styles/fill-in-blank-multi-number-line.css">
+    <link rel="stylesheet" href="styles/matching-connect-component.css">
+    <link rel="stylesheet" href="styles/matching-connect-component-image.css">
+    <link rel="stylesheet" href="styles/orderingQ_horizontal.css">
+    <link rel="stylesheet" href="styles/compare-question.css">
+    <link rel="stylesheet" href="styles/compare-image-objects.css">
+
+</head>
+<body>
+    <div class="quiz-container" id="quiz-container">
+        <div class="quiz-content">
+            <div class="quiz-header-top">
+                <a href="index.html" class="nav-link">Home MVC</a>
+                <h1 id="quiz-title">Quiz</h1>
+                <a href="#" id="restart-quiz" class="nav-link">Restart</a>
+            </div>
+            
+            <div id="quiz">
+
+                
+                
+            </div>
+            
+            
+            <div class="navigation-panel" id="navigation-panel">
+                <button id="prev-btn">Previous</button>
+                <button id="mark-review">Mark for Review</button>
+                <button id="next-btn">Next</button>
+                <button id="submit-quiz">Submit Quiz</button>
+            </div>
+        </div>
+
+        <!-- question-index-panel total="6" current="0"></question-index-panel -->
+        <!-- div class="index-panel" id="index-panel">
+            < div class="index-title">Questions</div>
+            <div class="index-grid" id="index-grid"></div>
+        </div -->
+    </div>
+
+    
+</body>
+    <script src="scripts/components/mcq-question.js"></script>
+    <script src="scripts/components/fill-in-blank-question.js"></script>
+    <script src="scripts/components/fill-in-blank-multi-question.js"></script>
+    <script src="scripts/components/fill-in-blank-multi-options.js"></script>
+    <script src="scripts/components/fill-in-blank-multi-table.js"></script>
+    <script src="scripts/components/fill-in-blank-multi-table-image.js"></script>
+    <script src="scripts/components/fill-in-blank-multi-table-image-2-col.js"></script>
+    <script src="scripts/components/fill-in-blank-multi-number-line.js"></script>
+    <script src="scripts/components/true-false-question.js"></script>
+    <script src="scripts/components/short-answer-component.js"></script>
+    <script src="scripts/components/multi-select-component.js"></script>
+    <script src="scripts/components/matching-question.js"></script>
+    <script src="scripts/components/matching-connect-component.js"></script>
+    <script src="scripts/components/matching-connect-component-image.js"></script>
+    <script src="scripts/components/matching-drag-question.js"></script>
+    <script src="scripts/components/orderingQ.js"></script>
+    <script src="scripts/components/orderingQ_horizontal.js"></script>
+    <script src="scripts/components/compare-question.js"></script>
+    <script src="scripts/components/compare-image-objects.js"></script>
+    <script src="scripts/components/question-wrapper-component.js"></script>
+    <script src="scripts/components/modal-component.js"></script>
+    <script src="scripts/components/indexUI.js"></script>
+    <script src="scripts/utils/quiz-result-evaluator.js"></script>
+    <!-- script src="scripts/quizState.js"></script -->
+    <script src="scripts/utils/quiz-data-loader.js"></script>
+    <script src="scripts/quizState.js"></script>
+    <script src="scripts/quiz-controller.js"></script>
+</html>
