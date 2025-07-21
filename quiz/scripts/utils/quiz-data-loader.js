@@ -31,7 +31,7 @@ class QuizDataLoader {
             throw new Error('Remote fetching not allowed when running locally');
         }
 
-        const response = await fetch('https://sanaya-code.github.io/quiz/data/info/info_subjects.json');
+        const response = await fetch('https://parvezk-code.github.io/quiz/data/info/info_subjects.json');
         if (!response.ok) throw new Error('Failed to load subjects info');
         return await response.json();
     }
