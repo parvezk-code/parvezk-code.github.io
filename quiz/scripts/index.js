@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     try {
         if (!QuizDataLoader.isLocal()) {
             // const infoData = await QuizDataLoader.fetchInfoSubjects();
-            const url = 'https://sanaya-code.github.io/quiz/data/info/info_subjects.json';
+            const url = 'https://parvezk-code.github.io/quiz/data/info/info_subjects.json';
             const infoData = await obj.fetchRemoteJson(url);
             const gradeSubjectsEl = document.createElement('grade-subjects');
             gradeSubjectsEl.setAttribute('config', JSON.stringify(infoData));
